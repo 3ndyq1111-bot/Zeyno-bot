@@ -12,17 +12,17 @@ global.owner = [
   ['393926427789', 'knor'],
   ['85253382438', 'noxtra'],
   ['212693877842', 'medalis'],
-  ['33760536110', 'nobody|'],
+  ['5511967898841', 'ksav'],
 ]
-global.suittag = ['390371717717'] 
-global.prems = ['390371717717'] 
-global.reportes_solicitudes = ['390371717717']
+global.suittag = ['xxxxxxxxxx'] 
+global.prems = ['xxxxxxxxxx'] 
+global.reportes_solicitudes = ['xxxxxxxxxx']
 
 global.packname = '(☞ﾟ∀ﾟ)☞'
-global.author = '★ცơɬῳɧąıɬą★'
-global.wm = '★ცơɬῳɧąıɬą ★'
-global.vs = '4.0'
-global.igfg = '★ცơɬῳɧąıɬą★'
+global.author = '★Ƶɛყŋơცơƚ★'
+global.wm = '★Ƶɛყŋơცơƚ ★'
+global.vs = '3.0'
+global.igfg = 'Ƶɛყŋơცơƚ'
 global.wait = '*[❗]⌛ _Caricando..._*\n*▰▰▰▱▱▱▱▱*'
 
 global.imagen1 = fs.readFileSync('./Menu2.jpg')
@@ -43,14 +43,14 @@ global.año = d.toLocaleDateString('it', { year: 'numeric' })
 global.tiempo = d.toLocaleString('it', { hour: 'numeric', minute: 'numeric', second: 'numeric', hour12: true })
 //*****************************
 global.wm2 = `▸ ${dia} ${fecha}\n▸ ცơɬῳɧąıɬą`
-global.gt = '★ცơɬῳɧąıɬą★'
-global.mysticbot = '★ცơɬῳɧąıɬą★'
-global.md = 'https://github.com/Fabri115/botwhaita'
-global.mysticbot = 'https://github.com/Fabri115/botwhaita'
+global.gt = '★Ƶɛყŋơცơƚ★'
+global.mysticbot = '★Ƶɛყŋơცơƚ★'
+global.md = ''
+global.mysticbot = ''
 global.waitt = '*[❗] ⌛ _Caricando..._*\n*▰▰▰▱▱▱▱▱*'
 global.waittt = '*[❗]⌛ _Caricando..._*\n*▰▰▰▱▱▱▱▱*'
 global.waitttt = '*[❗] ⌛ _Caricando..._*\n*▰▰▰▱▱▱▱▱*'
-global.nomorown = '393518398856'
+global.nomorown = '212679283897'
 global.pdoc = ['application/vnd.openxmlformats-officedocument.presentationml.presentation', 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'application/vnd.openxmlformats-officedocument.wordprocessingml.document', 'application/vnd.ms-excel', 'application/msword', 'application/pdf', 'text/rtf']
 global.cmenut = '❖––––––╔'
 global.cmenur = '╝––––––❖'
